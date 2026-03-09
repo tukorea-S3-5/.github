@@ -70,8 +70,6 @@ MOMFIT은 임신 주차 기반 맞춤형 운동 추천과
 
 ---
 
-## 👥 Team
-
 ## 👪 Member
 <table width="100%" align="center" style="border-collapse: collapse; text-align: center;">
 <thead>
