@@ -72,4 +72,72 @@ MOMFIT은 임신 주차 기반 맞춤형 운동 추천과
 
 ## 👥 Team
 
-S3-5 
+## 👪 Member
+<table width="100%" align="center" style="border-collapse: collapse; text-align: center;">
+<thead>
+<tr>
+<th>Pictures</th>
+<td width="100" align="center">
+<a href="https://github.com/jiho5191">
+<img src="https://github.com/user-attachments/assets/50d5df7b-bbc5-4b53-b75f-71a7d786f1d5" width="60" height="60">
+</a>
+</td>
+
+<td width="100" align="center">
+<a href="https://github.com/JiWoo1261">
+<img src="https://github.com/user-attachments/assets/50d5df7b-bbc5-4b53-b75f-71a7d786f1d5" width="60" height="60">
+</a>
+</td>
+  
+<td width="100" align="center">
+<a href="https://github.com/seungje1217">
+<img src="https://github.com/user-attachments/assets/a663dcf4-e128-4112-a1eb-58d040a1e81f" width="60" height="60">
+</a>
+</td>
+</tr>
+<tr>
+  
+
+  
+<th>Name</th>
+<td width="100" align="center">김지호</td>
+<td width="100" align="center">송지우</td>
+<td width="100" align="center">임승제</td>
+</tr>
+<tr>
+  
+<th>Position</th>
+<td width="150" align="center">
+Backend<br>
+</td>
+<td width="150" align="center">
+Frontend<br>
+<td width="150" align="center">
+Backend<br>
+</td>     
+</tr>
+
+<tr>  
+<th>GitHub</th>
+<td width="100" align="center">
+<a href="https://github.com/jiho5191">
+<img src="http://img.shields.io/badge/jiho5191-green?style=social&logo=github"/>
+</a>
+</td>
+  
+<td width="100" align="center">
+<a href="https://github.com/JiWoo1261">
+<img src="http://img.shields.io/badge/JiWoo1261-green?style=social&logo=github"/>
+</a>
+</td>
+  
+<td width="100" align="center">
+<a href="https://github.com/seungje1217">
+<img src="http://img.shields.io/badge/seungje1217-green?style=social&logo=github"/>
+</a>
+</td>
+</tr>
+</thead>
+</table>
+
+</br>
