@@ -77,7 +77,7 @@ MOMFIT은 임신 주차 기반 맞춤형 운동 추천과
 <th>Pictures</th>
 <td width="100" align="center">
 <a href="https://github.com/jiho5191">
-<img src="https://github.com/user-attachments/assets/50d5df7b-bbc5-4b53-b75f-71a7d786f1d5" width="60" height="60">
+<img src="https://github.com/user-attachments/assets/fb11c67b-0038-45dd-b386-b5b6cde4d8df" width="60" height="60">
 </a>
 </td>
 
